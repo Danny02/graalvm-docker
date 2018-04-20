@@ -1,7 +1,7 @@
 # GraalVM Docker Image
 [GraalVM](http://www.graalvm.org/) is the new Java compiler backend. This Docker Image helps experimenting with [native images](http://www.graalvm.org/docs/getting-started/#native-images).
 
-[![asciicast](https://asciinema.org/a/0UIr6u5TIzCKAvmKdEvyLSs8A.png)](https://asciinema.org/a/0UIr6u5TIzCKAvmKdEvyLSs8A)
+[![asciicast](https://asciinema.org/a/aVDt2rbrtWnH4rVENZxTl9t3T.png)](https://asciinema.org/a/aVDt2rbrtWnH4rVENZxTl9t3T)
 
 ## Usage
 Build the image first:
